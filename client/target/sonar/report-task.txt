@@ -1,0 +1,7 @@
+organization=aymen
+projectKey=aymen_client
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58807
+dashboardUrl=https://sonarcloud.io/dashboard?id=aymen_client
+ceTaskId=AZRq2hQtAWUVd5kiZOUB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRq2hQtAWUVd5kiZOUB

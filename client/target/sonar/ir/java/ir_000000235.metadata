@@ -1,0 +1,5 @@
+com.example.client.services.ClientService#addClient(Lcom/example/client/entities/Client;)V
+false
+3c4aa2dc83033f237e91cc4ac8a8b2e9
+==
+save org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;

@@ -1,0 +1,4 @@
+com.fateway.gateway.GatewayApplication#main([Ljava/lang/String;)V
+false
+06259f96ea51d8236242aa407bae8d83
+org.springframework.boot.SpringApplication#run(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;

@@ -1,0 +1,8 @@
+com.example.car.services.CarService#findById(Ljava/lang/Long;)Lcom/example/car/models/CarResponse;
+false
+96aed538cf20e75b8632c52b159d448f
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+!unknownMethod! !unknownMethod!
+findById org.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;
+getForObject org.springframework.web.client.RestTemplate#getForObject(Ljava/net/URI;Ljava/lang/Class;)Ljava/lang/Object;

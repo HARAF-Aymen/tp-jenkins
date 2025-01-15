@@ -1,0 +1,3 @@
+com.example.client.ClientApplication#initializeH2Database(Lcom/example/client/repositories/ClientRepository;)Lorg/springframework/boot/CommandLineRunner;
+false
+2586297699253359651994d06d3714fd

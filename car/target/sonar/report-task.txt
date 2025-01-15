@@ -1,0 +1,7 @@
+organization=aymen
+projectKey=aymen_car
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58807
+dashboardUrl=https://sonarcloud.io/dashboard?id=aymen_car
+ceTaskId=AZRq15d1768UrkA1YRmr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRq15d1768UrkA1YRmr

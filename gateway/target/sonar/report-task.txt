@@ -1,0 +1,7 @@
+organization=aymen
+projectKey=aymen_gateway
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58807
+dashboardUrl=https://sonarcloud.io/dashboard?id=aymen_gateway
+ceTaskId=AZRq3KzrEhLhAxgJ2E3N
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRq3KzrEhLhAxgJ2E3N

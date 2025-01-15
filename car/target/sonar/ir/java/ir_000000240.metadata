@@ -1,0 +1,11 @@
+com.example.car.CarApplication#restTemplate()Lorg/springframework/web/client/RestTemplate;
+false
+5ab9cd742f21abd8c0214d9237bc78e0
+org.springframework.http.client.SimpleClientHttpRequestFactory#<init>()V
+org.springframework.http.client.SimpleClientHttpRequestFactory#instance-init#
+org.springframework.web.client.RestTemplate#<init>()V
+org.springframework.web.client.RestTemplate#instance-init#
+==
+setConnectTimeout org.springframework.http.client.SimpleClientHttpRequestFactory#setConnectTimeout(I)V
+setReadTimeout org.springframework.http.client.SimpleClientHttpRequestFactory#setReadTimeout(I)V
+setRequestFactory org.springframework.http.client.support.InterceptingHttpAccessor#setRequestFactory(Lorg/springframework/http/client/ClientHttpRequestFactory;)V

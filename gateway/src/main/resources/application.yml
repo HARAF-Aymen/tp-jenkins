@@ -8,3 +8,4 @@ spring:
       discovery: SERVICE-CAR
   application:
     name: Gateway
+
